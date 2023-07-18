@@ -55,3 +55,4 @@ export const signOut = async () => {
     console.log(error);
   }
 };
+
